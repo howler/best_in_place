@@ -24,6 +24,6 @@ DESC
 
   s.required_ruby_version = '>= 3.1.0'
 
-  s.add_runtime_dependency 'actionpack', '>= 7.0'
-  s.add_runtime_dependency 'railties', '>= 7.0'
+  s.add_runtime_dependency 'actionpack', '>= 6.1'
+  s.add_runtime_dependency 'railties', '>= 6.1'
 end
